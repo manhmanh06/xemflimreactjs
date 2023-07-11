@@ -1,0 +1,14 @@
+.app {
+  max-width: 1340px;
+  width: 100%;
+  margin: auto;
+  padding: 0 12px;
+  position: relative;
+}
+.loading {
+  text-align: center;
+}
+.error {
+  text-align: center;
+  color: red;
+}

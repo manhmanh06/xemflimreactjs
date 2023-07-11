@@ -1,0 +1,20 @@
+.container {
+  margin-top: 20px;
+  width: 100%;
+}
+.movie_list {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(8, 1fr);
+  margin-top: 20px;
+}
+.movie_list img {
+  width: 100%;
+}
+.error {
+  color: red;
+  text-align: center;
+}
+.loading {
+  text-align: center;
+}

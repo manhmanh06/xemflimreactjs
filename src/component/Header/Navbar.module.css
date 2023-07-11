@@ -1,0 +1,28 @@
+.navbar {
+  height: 60px;
+  max-width: 1340px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-color: transparent;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+  padding: 10px 20px;
+  align-items: center;
+}
+.icon {
+  width: 30px;
+  margin-right: 20px;
+}
+.title {
+  color: red;
+  font-weight: 700;
+  font-size: 32px;
+}
+.background1 {
+  background-color: black;
+}
+.background2 {
+  background-color: transparent;
+}
